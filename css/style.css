@@ -439,7 +439,7 @@ body {
 
 .contact .row form {
   flex: 1 1 45rem;
-  padding: 5rem 2rem;
+  padding: 0rem 2rem;
   text-align: center;
 }
 
